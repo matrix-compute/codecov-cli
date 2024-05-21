@@ -32,7 +32,7 @@ ijson==3.2.3
     # via codecov-cli (setup.py)
 pyyaml==6.0.1
     # via codecov-cli (setup.py)
-requests==2.31.0
+requests==2.32.0
     # via responses
 responses==0.21.0
     # via codecov-cli (setup.py)
