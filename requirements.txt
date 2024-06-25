@@ -4,7 +4,7 @@
 #
 #    pip-compile setup.py
 #
-anyio==4.0.0
+anyio==4.4.0
     # via httpcore
 certifi==2023.7.22
     # via
