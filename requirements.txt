@@ -51,3 +51,4 @@ urllib3==2.0.6
     # via
     #   requests
     #   responses
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
